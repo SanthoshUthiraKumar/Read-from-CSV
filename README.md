@@ -1,7 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
-To write a python program to list the content in a CSV file
+To write a python program to read the content from a CSV file
 
 ## ALGORITHM:
 ### Step 1:
@@ -21,7 +21,7 @@ End the program
 ## PROGRAM:
 ```
 ''' 
-Program to copy the contents from one file to another file
+Program to read the contents from CSV file
 Developed by: Santhosh U
 RegisterNumber: 22009224
 '''
@@ -36,4 +36,4 @@ print('Col:',len(f.axes[1]))
 ![CSVOutput](https://user-images.githubusercontent.com/119477975/214110022-7607649d-e1aa-45c9-aed8-509c3c03f1c7.png)
 
 ## RESULT:
-Thus the program is written to list the content in a CSV file
+Thus the program is written to read the content in a CSV file
